@@ -25,4 +25,4 @@ Link demo : http://nhatrolongmung.epizy.com/
   +) Vì sản phẩm chưa được thử nghiệm thực sự nên khá khó để đánh giá khả năng ứng dụng một cách chính xác và khách quan. Tuy nhiên, nhất định là đủ để áp ứng đúng và đủ nhu cầu tìm, thuê phòng trọ của các bạn sinh viên, các công nhân. Chắc chắn các chức năng hơn fanpage nhà trọ ở facebook, nhưng vấn đề là khả năng tiếp cận, và độ phủ mới là yếu tố quan trọng lại không bằng facebook. (Giải pháp có 1 fanpage bên facebook).
   +) Thị trường: thị phần thị trường còn rộng nhất ở khu vực thành thị (Hà Nội, Hồ Chí Minh), và nhu cầu tăng rất cao vào đầu năm học. Tuy nhiên cạnh tranh tương đối cao vì không phải là chưa có sản phẩm tương tự trên thị trường.
                                                                         
-                                                                                                 Nguyễn Văn Kỳ
+                                                                        Nguyễn Văn Kỳ
