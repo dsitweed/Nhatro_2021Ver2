@@ -1,0 +1,62 @@
+/* Login form */
+*{
+    box-sizing: border-box;
+}
+
+.todo{
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.todo input[type="text"], input[type="number"]{
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: solid 1px black;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.todo input[type="file"]{
+    display: block;
+}
+
+.file-upload{
+    border:solid 1px #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin: 8px 0;
+}
+
+.todo button{
+    width: 100%;
+    font-size: 20px;
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    border-radius: 5px;
+    margin: 8px 0;
+    cursor: pointer;
+}
+.todo button:hover{
+    background-color: #45a049;
+}
+
+.todo label{
+    font-size: 20px;
+}
+
+.side button{
+    width: 100%;
+    padding: 22px 16px;
+    cursor: pointer;
+    text-align: left;
+    font-size: 18px;
+    transition: 0.5s;
+}
+
+.side button.active{
+    background-color: #92A8D1;
+}

@@ -1,0 +1,11 @@
+*{
+    font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+.nav-link:hover{
+    cursor: pointer;
+}
+
+.btn-form{
+    cursor: pointer;
+}
