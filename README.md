@@ -1,4 +1,5 @@
-Link demo : http://nhatrolongmung.epizy.com/\n
+Link demo : http://nhatrolongmung.epizy.com/
+
 Ứng dụng: một web site kết nối những chủ nhà trọ với những người muốn tìm nhà trọ với nhau và tình trạng phòng, giá tiền, vv
 # Xuất phát ý tưởng :
  - Nhìn thấy mỗi lần sinh viên năm học mới, hay muốn đổi phòng trọ phải tìm kiếm trên nhiều fanpage trên facebook rất tốn thời gian và mệt mỏi. Nên đã nảy ra ý tưởng tạo một mạng lưới chủ nhà trọ (nhỏ và siêu nhỏ) với người muốn thuê (định hướng: sinh viên, công nhân thu nhập thấp).
