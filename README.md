@@ -1,7 +1,8 @@
 Link demo : http://nhatrolongmung.epizy.com/
+
 Ứng dụng: một web site kết nối những chủ nhà trọ với những người muốn tìm nhà trọ với nhau và tình trạng phòng, giá tiền, vv
 # Xuất phát ý tưởng :
-    - Nhìn thấy mỗi lần sinh viên năm học mới, hay muốn đổi phòng trọ phải tìm kiếm trên nhiều fanpage trên facebook rất tốn thời gian và mệt mỏi. Nên đã nảy ra ý tưởng tạo một mạng lưới chủ nhà trọ (nhỏ và siêu nhỏ) với người muốn thuê (định hướng: sinh viên, công nhân thu nhập thấp).
+ - Nhìn thấy mỗi lần sinh viên năm học mới, hay muốn đổi phòng trọ phải tìm kiếm trên nhiều fanpage trên facebook rất tốn thời gian và mệt mỏi. Nên đã nảy ra ý tưởng tạo một mạng lưới chủ nhà trọ (nhỏ và siêu nhỏ) với người muốn thuê (định hướng: sinh viên, công nhân thu nhập thấp).
 # Đối tượng cung cấp dịch vụ: chủ nhà trọ (nhỏ và siêu nhỏ), sinh viên, công nhân thu nhập thấp.
 # Các chức năng:
   +) Phân chia khả năng dựa vào tài khoản đăng nhập
@@ -25,4 +26,4 @@ Link demo : http://nhatrolongmung.epizy.com/
   +) Vì sản phẩm chưa được thử nghiệm thực sự nên khá khó để đánh giá khả năng ứng dụng một cách chính xác và khách quan. Tuy nhiên, nhất định là đủ để áp ứng đúng và đủ nhu cầu tìm, thuê phòng trọ của các bạn sinh viên, các công nhân. Chắc chắn các chức năng hơn fanpage nhà trọ ở facebook, nhưng vấn đề là khả năng tiếp cận, và độ phủ mới là yếu tố quan trọng lại không bằng facebook. (Giải pháp có 1 fanpage bên facebook).
   +) Thị trường: thị phần thị trường còn rộng nhất ở khu vực thành thị (Hà Nội, Hồ Chí Minh), và nhu cầu tăng rất cao vào đầu năm học. Tuy nhiên cạnh tranh tương đối cao vì không phải là chưa có sản phẩm tương tự trên thị trường.
                                                                         
-                                                                                    Nguyễn Văn Kỳ
+                                                                        Nguyễn Văn Kỳ
